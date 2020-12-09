@@ -27,7 +27,7 @@ public class TemplateBaseTest {
         System.out.println(JSON.toJSONString(
                 baseService.buildTemplateInfo( 10)));
         System.out.println(JSON.toJSONString(
-                baseService.buildTemplateInfo( 2)));
+                baseService.buildTemplateInfo( 11)));
     }
 
     @Test
